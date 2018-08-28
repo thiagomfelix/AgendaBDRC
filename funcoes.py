@@ -16,7 +16,7 @@ def adicionar():
 	agenda.write(",")
 	agenda.write(telefone)
 	agenda.write(",")
-	# agenda.write("\n")
+	agenda.write("\n")
 	# agenda.close()
 	
 def listar():
